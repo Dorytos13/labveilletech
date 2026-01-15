@@ -6,10 +6,17 @@
     <description>Recent content in Posts on Doriane Rosset</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 10:31:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:51:10 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article_1</title>
+      <title>Apprendre avec les LLM dans mon domaine</title>
+      <link>http://localhost:1313/posts/article_2/</link>
+      <pubDate>Thu, 15 Jan 2026 11:51:10 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mon système de veille, mes abonnements, ma routine</title>
       <link>http://localhost:1313/posts/article_1/</link>
       <pubDate>Thu, 15 Jan 2026 10:31:10 +0100</pubDate>
       <guid>http://localhost:1313/posts/article_1/</guid>
