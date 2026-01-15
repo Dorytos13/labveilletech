@@ -1,0 +1,79 @@
+# Navigation et Titres
+[home]
+other = "Accueil"
+
+[posts]
+other = "Articles"
+
+[tags]
+other = "Catégories"
+
+[categories]
+other = "Catégories"
+
+[archives]
+other = "Archives"
+
+[about]
+other = "À propos"
+
+# Page d'erreur 404
+[404_title]
+other = "Page introuvable"
+
+[404_message]
+other = "Désolé, la page que vous recherchez est introuvable."
+
+[back_to_home]
+other = "Retour à l'accueil"
+
+# Recherche
+[search_placeholder]
+other = "Rechercher..."
+
+[search_no_results]
+other = "Aucun résultat trouvé"
+
+[search_results]
+other = "résultats"
+
+# Pagination
+[newer]
+other = "Plus récent"
+
+[older]
+other = "Plus ancien"
+
+[page]
+other = "Page"
+
+# Métadonnées des posts
+[read_time]
+other = "min de lecture"
+
+[words]
+other = "mots"
+
+[posted_on]
+other = "Publié le"
+
+[last_updated]
+other = "Dernière mise à jour"
+
+# Table des matières
+[toc]
+other = "Table des matières"
+
+# Tags et catégories
+[tagged_with]
+other = "Taggé avec"
+
+[in_category]
+other = "Dans la catégorie"
+
+# Footer
+[built_with]
+other = "Créé avec"
+
+[theme_by]
+other = "Thème par"
