@@ -6,7 +6,7 @@ theme = "mana"
 
 # Theme configuration
 [params]
-  description = "Découvrez ma veille technologique à propos de mon domaine"
+  description = "Passionnée par les nouvelles technologies et l'innovation, j'aime apprendre et découvrir de nouveaux outils."
   author = "Doriane"
   favicon = "/favicon/logo-transparent/favicon.ico"
   heroTitleLine1 = "Doriane Rosset"
