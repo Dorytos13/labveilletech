@@ -4,7 +4,7 @@ draft = false
 title = 'Ma methodologie de veille technologique'
 description = "Decouvrez comment j'ai structure mon HUB de veille technologique sur Notion pour organiser mes inspirations, projets et ressources."
 tags = ["Veille technologique", "Innovation"]
-image = "static/images/veilletech.jpeg"
+image = "images/veilletech.jpeg"
 imageAlt = "Veille"
 toc = true
 +++
@@ -25,7 +25,7 @@ Une structure en trois bases de données
 - Outils & Ressources : Ma bibliothèque technique où je classe chaque découverte par type (IA, extension, site, article etc.) et par domaine d'utilité (Design, Motion Design, Marketing, Front-end).
 
 Voici un aperçu de ce à quoi ressemble mon espace :
-<img src="/images/hub.png" alt="aperçu de mon HUB notion" width="600">
+<img src="images/hub.png" alt="aperçu de mon HUB notion" width="600">
 
 ## Le sourcing
 Ma veille est mobile et visuelle. Elle s'intègre naturellement à mes habitudes quotidiennes, notamment durant mes trajets.

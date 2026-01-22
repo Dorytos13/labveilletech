@@ -4,7 +4,7 @@ draft = false
 title = "AdTech : Comprendre la mécanique sous le capot de la publicité digitale" 
 description = "Découverte du 'AdTech Book' d'Avenga. Pourquoi la maîtrise des flux publicitaires est indispensable, même pour un profil créatif."
 tags = ["Publicité", "Stratégie", "Ressource"]
-image = "static/images/adtech.png"
+image = "images/adtech.png"
 imageAlt = "The AdTech Book Ressource"
 toc = true
 +++
@@ -32,7 +32,7 @@ Cette ressource n'est pas un simple article de blog, c'est un véritable livre o
 - etc... (lisez-le pour en apprendre plus !)
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/images/adtechBook.png" alt="The AdTech Book" style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <img src="images/adtechBook.png" alt="The AdTech Book" style="width: 100%; max-width: 300px; border-radius: 8px;">
   </div>
 </div>
 
