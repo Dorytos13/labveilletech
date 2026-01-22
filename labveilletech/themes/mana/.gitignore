@@ -1,6 +1,7 @@
 # Hugo
 /public/
 /resources/
+*.lock
 
 # Node
 node_modules/
